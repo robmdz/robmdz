@@ -1,4 +1,4 @@
-<p align="left">Hi, I'm Robinson.<br>I currently learning about frontend, backend, machine learning and AI.<br>My favorite sport is Karate. lol</p>
+<p align="left">Hi, I'm Robinson.<br>I'm currently learning about frontend, backend, machine learning and AI.<br>My favorite sport is Karate. lol</p>
 
 ###
 

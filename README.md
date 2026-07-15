@@ -1,4 +1,5 @@
-<p align="left">Hi, I'm Robinson.<br>I'm currently learning about frontend, backend, machine learning and AI.<br>My favorite sport is Karate. lol</p>
+<p align="left">Hi, I'm Robinson.<br>I'm currently building my own CS learning path. I save my notes, my projects, and my questions here.<br>
+  If you want to contact me, send me a DM on LinkedIn. My favorite sport is Karate, but I like all sports. lol</p>
 
 ###
 
